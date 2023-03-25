@@ -1,0 +1,63 @@
+{
+
+    "Abonamenty": {
+        "Szczegoly": ["NETFLIX_INTERNATIONAL", "SPOTIFY_", "APPLE.COM/BILL", "NETFLIX.COM_"],
+        "Odbiorca": []
+    },
+    "Oplaty": {
+        "Szczegoly": ["Potwierdzenie_wykonania_przelewu_do_Urzdu_Skarbowego", "za_seks"],
+        "Odbiorca": ["Tmobile", "ZUS", "taxnet", "Budicom", "Czynsz", "XBOX"]
+    },
+    "Zakupy Spozywcze": {
+        "Szczegoly": ["CENTRUM_HANDLOWO-_USLU_MIRKOW_PL", "TRANSGOURMET_MIRKOW_PL", "AUCHAN_WROCLAW_KORONA_Wroclaw_PL", "POLOmarket_", "MACHUL_KAMIL_KAMIZ_Domaszczyn_PL", "Kaufland_PL_", "LIDL_", "BIEDRONKA_", "Sklep_u_Liska_", "ZABKA_", "AUCHAN_POLSKA_Sp._z_o_", "ALDI_Sp._z_o.o._", "DINO_", "RODZINKA_Chobienia_PL", "TCHIBO_"],
+        "Odbiorca": []
+    },
+    "Zakupy Inne": {
+        "Szczegoly": ["Good_Mornings_Wroclaw_PL", "Deichmann-", "ROSSMANN_Wroclaw_PL", "SWIAT_KSIAZKI_WROCLAW_PL", "_DEALZ_", "PRIMARK", "3186_WROCLAWDLUGOSZA", "Action_", "EMPIK_S.A.", "EOBUWIE.PL", "TEDI_", "BLIK_-_patno_w_internecie", "PEPCO_", "Microsoft*Xbox_msbill.info_IRL", "Leroy_Merlin_", "Maxi_Zoo_", "C_&_A_", "IKEA_Retail_"],
+        "Odbiorca": []
+    },
+    "Paliwo": {
+        "Opis": "Paliwo, Parkingi i bilety za komunikację",
+        "Szczegoly": ["BP-IGLICA_406_WROCLAW_PL", "NEXTBIKE_VETURILO_", "BP-BALTYK_197_RUMIA_PL", "SHELL_", "KBU_SP_Z_O_O_SPP_WROC_KRAKOW_PL", "KBU_SP_Z_O_O_SSPP_WROC_KRAKOW_PL", "BILETY_URBANCARD", "NFM_APM_Wroclaw_PL", "ORLEN_Stacja"],
+        "Odbiorca": []
+    },
+    "Allegro": {
+        "Szczegoly": ["Allegro"],
+        "Odbiorca": ["ALLEGRO_"]
+    },
+    "Wewnetrzne": {
+        "Szczegoly": ["Zasilenie_Alior", "Przelew_wasny"],
+        "Odbiorca": ["Moje_gwne", "alior_osobiste"]
+    },
+    "Jedzenie": {
+        "Opis": "Jedzenie na mieście itp. Nie zakupy spoywcze",
+        "Szczegoly": ["VAFFANAPOLI_WROCLAW_PL", "OWOCOWY_RAJ_Wroclaw_PL", "Restauracja_Indyjska_Wroclaw_PL", "I_LOVE_ITALY_JELENIA_GORA_PL", "PL_BK_Folwark_S5_MOP_Debno_Polskie_PL", "ZZTOP_-_ZUPY_I_ZA", "PL_PH_Wroclaw_Korona_Wroclaw_PL", "BUBE_PL_WROCLAW_PL", "PASIBUS_", "KONKOL_SP._Z_O.O._JASTRZEBIA_GO_P", "PL_BK_Wroclaw_", "OLIWA_I_OGIEN_WROCLAW_PL", "AYMANCO_WROCLAW_PL", "FLOW_CLIMBING_SPACE", "DESIGN3D_MATEUSZ_HALIC_", "McDonalds_", "_KFC_", "OLE_CAFFE_WROCLAW_PL", "Pan_Precel_Wroclaw_PL", "POCHLEBNA_WROCLAW_PL", "ARDEO_WROCLAW_PL", "HOTEL_RESTAURANT_GARDE_OLESNICA_PL", "ISTAMBUL_KEBAB_WROCLAW_PL"],
+        "Odbiorca": ["Thali_expres_thali"]
+    },
+    "Bankowosc": {
+        "Szczegoly": ["POBRANIE_OPATY/PROWIZJI", "Prowadzenie_rachunku_pomocniczego", "Opaty_i_prowizje", "Prowadzenie_rachunku:_"],
+        "Odbiorca": []
+    },
+    "Oszczednosci": {
+        "Szczegoly": [],
+        "Odbiorca": ["Rachunek_Pomocniczy", "Micha_Tomczak"]
+    },
+    "Zdrowie": {
+        "Szczegoly": ["APTEKA_VITRUM_WROCLAW_PL", "APTEKA_ZDROWIE_GORA_PL", "APTEKA_DR_MAX_WROCLAW_PL", "APTEKA_KATEDRALNA_Wroclaw_PL", "APTEKA_NIEZLE_ZIOLKO_WROCLAW_PL", "APTEKA_BURSZTYNOWA_JASTRZEBIA_GO_PL", "APTEKA_OLIMPIA_WROCLAW_PL", "SPORTSMEDIC_Wroclaw_PL", "RECEPTOMAT_PL_WARSZAWA_PL", "DOZ_APTEKA_DBAM_O_ZDRO", "FLOAT_WROCLAW", "MEDI_PARTNER", "APTEKA_MEDICOVER_"],
+        "Odbiorca": []
+    },
+    "Wydarzenia": {
+        "Opis": "Wydatki na rozne eventy albo bardzo rzadkie zakupy (np elektronika albo okulary)",
+        "Szczegoly": ["DP*slotmarket.pl_Nowa_Iwiczna_PL", "ROYAL_BRA_WROCLAW_PL", "VERTIGO_JAZZ_CLUB_&_R_Wroclaw_PL", "adria-art.pl", "profi-lingua", "RYANAIR_DUBLIN_IRL", "eskarbonka.wosp.org.pl", "iSPOT_Wroclaw_PL", "CINEMA_CITY_KORONA_WROCLAW_PL", "MUSCAT_WROCLAVIA_WROCLAW_PL"],
+        "Odbiorca": ["Przepis_Sandra_Kokowska"]
+    },
+    "Przychody": {
+        "Szczegoly": [],
+        "Odbiorca": []
+    },
+    "Inne": {
+        "Opis": "Wszystko inne",
+        "Szczegoly": [],
+        "Odbiorca": []
+    }
+}
