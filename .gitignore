@@ -1,34 +1,3 @@
-
-Skip to content
-Pull requests
-Issues
-Codespaces
-Marketplace
-Explore
-@MichalTomczak
-MichalTomczak /
-ParserWydatkow
-Private
-
-Fork your own copy of MichalTomczak/ParserWydatkow
-
-Code
-Issues
-Pull requests
-Actions
-Projects
-Security
-Insights
-
-    Settings
-
-ParserWydatkow/.gitignore
-@MichalTomczak
-MichalTomczak Initial commit
-Latest commit bad439d Mar 25, 2023
-History
-1 contributor
-104 lines (76 sloc) 1.57 KB
 # Logs
 logs
 *.log

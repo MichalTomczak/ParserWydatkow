@@ -29,5 +29,5 @@ const getAllCattegoriesCost = function(completeJson) {
 
         }
     }
-    console.log(costsJson);
+    console.log(costsJson + "git");
 }
